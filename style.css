@@ -11,13 +11,13 @@ body {
     height: 40px;
     margin: 30px;
     border-radius: 50%;
-    background: #4343F9;
+    background: rgba(255,255,255, 0.2);
 }
 
 .button {
     width: 240px;
     height: 360px;
-    background: #4343F9;
+    background: rgba(255,255,255, 0.2);
     border-radius: 4%;
     border: 0;
     font-family: 'Montserrat', sans-serif;
